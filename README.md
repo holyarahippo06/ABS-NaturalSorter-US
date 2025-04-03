@@ -8,7 +8,7 @@ Tired of looking at your Audiobookshelf Library and seeing how numbers are just 
 
 Well, say no more!
 
-With this userscript, utilizing Tampermonkey (Violentmonkey or Greasemonkey may work too, but haven't been tested), you'll be able to enjoy your Audiobooks or Audiodranas to be sorted just the way you like it, naturally.
+With this userscript, utilizing Tampermonkey (Violentmonkey or Greasemonkey may work too, but haven't been tested), you'll be able to enjoy your Audiobooks or Audiodramas to be sorted just the way you like it, naturally.
 
 
 # Installation
