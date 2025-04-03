@@ -13,8 +13,8 @@ With this userscript, utilizing Tampermonkey (Violentmonkey or Greasemonkey may 
 
 # Installation
 
-Simply install Tampermonkey from (their website)[https://www.tampermonkey.net/]
+Simply install Tampermonkey from [their website](https://www.tampermonkey.net/)
 
-after that is done, click on (this link)[https://github.com/holyarahippo06/ABS-NaturalSorter-US/blob/main/ABS-NaturalSorter.user.js?raw=true] to install the userscript.
+after that is done, click on [this link](https://github.com/holyarahippo06/ABS-NaturalSorter-US/blob/main/ABS-NaturalSorter.user.js?raw=true) to install the userscript.
 
 Then, click on the Tampermonkey browser extension and click on Dashboard, then click on "ABS-NaturalSorter" and pretty close at the top, replace "INSERT_YOUR_AUDIOBOOKSHELF_LIBRARY_TITLE_SORT_LINK_HERE" with your Audiobookshelf URL from the Library View and with the title sorting.
