@@ -16,7 +16,7 @@
         return;
     }
 
-    console.log("Audiobookshelf Natural Sort (SPA Aware) v3.1 Initializing...");
+    console.log("ABS-NaturalSorter v1.0 Initializing...");
 
     // --- Debounce Function ---
     function debounce(func, wait) {
